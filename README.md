@@ -1,4 +1,4 @@
-# Classwork on Android choices (checkbox)
+# Classwork on Android choices
 
 Create an app with five checkboxes and a Show Toast button, as shown in attached image.
 
